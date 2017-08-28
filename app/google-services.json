@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "978418475196",
+    "firebase_url": "https://stray-animals-3f0d0.firebaseio.com",
+    "project_id": "stray-animals-3f0d0",
+    "storage_bucket": "stray-animals-3f0d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978418475196:android:6f6b92273b099563",
+        "android_client_info": {
+          "package_name": "yun.homeguard.strayanimals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978418475196-th32e52useiahqanvq8r0lm2iskhll8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "yun.homeguard.strayanimals",
+            "certificate_hash": "0cf1c33749c37b4246c4f447eee6e284e0dc1eb9"
+          }
+        },
+        {
+          "client_id": "978418475196-csp00tllgthf4bab647npg7ksvi2v9sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyC-BUVjShIPLe3oPJx4GfaxnbKhw7Wtw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978418475196-csp00tllgthf4bab647npg7ksvi2v9sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
